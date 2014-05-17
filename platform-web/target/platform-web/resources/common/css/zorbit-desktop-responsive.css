@@ -1,0 +1,35 @@
+@media (max-width: 767px) { 
+	.zbt-dtp-navbar{
+		position:relative;
+	}
+	.zbt-dtp-desk{
+		padding:0px;
+	}
+ }
+@media (min-width: 768px) and (max-width: 991px) {
+
+	.zbt-dtp-navbar{
+		position:relative;
+	}
+	.zbt-dtp-desk{
+		padding:0px;
+	}
+ }
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	.zbt-dtp-appmain{
+	/*min-height: 760px;*/
+	}
+	.zbt-dtp-menubody{
+		display:block;
+	}
+}
+
+@media (min-width: 1200px) { 
+	.zbt-dtp-appmain{
+	/*min-height: 760px;*/
+	}
+	.zbt-dtp-menubody{
+		display:block;
+	}
+}
